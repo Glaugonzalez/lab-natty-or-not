@@ -20,23 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Guardiões da Terra ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 30 segundos apresenta uma visão rápida e envolvente da conservação do planeta Terra
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+•	Software Canva para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A montagem e edição foram realizadas no Canva para garantir qualidade profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo é demonstração rápida do espaço sideral, considerando a conservação da natureza e  futuro do Planeta
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
 
 ### Exemplos e Insigths
 
